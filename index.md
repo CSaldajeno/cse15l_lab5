@@ -21,7 +21,7 @@ Hi, after looking at your screenshots, I definately think you're on the right tr
 Thank you so much!!! I was able to fix the bug by changing `index1` to `index2` in the second while loop as you adviced. `index1` caused an infinite loop, since it is supposed to traverse list1, but was instead using list2, making the loop unable to progress towards the termination condition, `index2 < list2.size()`. `index2` works, given it's association with `list2`.
 
 ![Image4](lab5_fix.png)
-![Image5](lab5_success.png)
+![Image5](lab5_fixed.png)
 
 **File & Directory Structure needed:**
 
