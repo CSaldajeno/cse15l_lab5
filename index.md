@@ -34,7 +34,8 @@ Thank you so much!!! I was able to fix the bug by changing `index1` to `index2` 
   - ListExamplesTests.java
   - test.sh
  
-**Contents of each file before fixing***
+**Contents of each file before fixing**
+
 ListExamples.java
 ![Image2](lab5_lists.png)
 
