@@ -9,7 +9,7 @@
 Hi, I've been trying to work on lab 7 for a couple hours now, and I'm not sure how to get rid of the bug. I think the bug might be where it's adding, but I'm not sure which one and how to fix it. I attached screenshots of the symptom, ListExamples.java and ListExamplesTests.java below.
 
 ![Image1](lab5_edstem.png)
-![Image2](lab5_list.png)
+![Image2](lab5_lists.png)
 ![Image3](lab5_test.png)
 
 **TA Response:**
